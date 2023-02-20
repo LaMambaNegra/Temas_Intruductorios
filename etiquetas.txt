@@ -1,0 +1,20 @@
+  <body>
+        <h1>Steve Jobs</h1>
+        <section>
+          <h2>Información educativa</h2>
+          <article>
+            Primaria y bachillerato en USA
+          </article>
+          <article>
+            Universidad de cambridge
+          </article>
+        </section>
+        <section>
+          <h2>Información laboral</h2>
+          <article>
+            trabajo en apple
+          </article>
+        </section>
+      </div>
+    </div>  
+  </body>
